@@ -1,0 +1,9 @@
+.col-border {
+  border: 1px solid black;
+}
+
+.hero-text {
+  color: blue;
+  text-align: center;
+  font-weight: 900;
+}
